@@ -1,4 +1,2 @@
-"registered user, bonus under limit",100060,true,30
-"registered user, bonus over limit",100000060,true,500
-"unregistered user, bonus under limit",100060,false,10
-"unregistered user, bonus over limit",100000060,false,500
+"test 1"|{12, 5, 8, 4, 5, 3, 8, 6, 11, 11, 12}| 12
+"test 2"|{12, 5, 8, 4, 5, 3, 8, 6, 11, 11, 13}| 13
